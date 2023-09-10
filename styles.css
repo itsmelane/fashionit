@@ -1,0 +1,42 @@
+/* styles.css */
+/* Estilizando o cabeçalho */
+header {
+    background-color: #fa2be9;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Estilizando a seção */
+  section {
+    background-color: #ffccf4;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Estilizando o rodapé */
+  footer {
+    background-color: #fa2be9;
+    text-align: center;
+    padding: 10px;
+  }
+  .menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .nav-list li a:hover {
+    color: #007bff;
+  }
